@@ -3,7 +3,7 @@
 ### 팀 구성
 Frontend 1명, Backend 1명, Android 1명
 
-### Test ID/PW
+### Test ID/PW (View 전용)
 ID: TestAccount <br>
 PW: 12345678
 
