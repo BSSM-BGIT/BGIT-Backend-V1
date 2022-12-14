@@ -8,7 +8,7 @@ Frontend 1명, Backend 1명, Android 1명
 ID: TestAccount <br>
 PW: 12345678
 
-### 담당한 기능
+## 💫 담당한 기능
 - BSM/Github Oauth를 통한 인증/인가 개발
 - 인증된 정보를 바탕으로 유저의 깃허브 정보 저장 및 관리
 - 사용자 인증/인가 구현과 토큰 관리
