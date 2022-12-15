@@ -49,3 +49,27 @@ PW: 12345678
     결국 찾은 정답은 “Oauth가 아닌 Solved.ac에서 제공해주는 API를 활용하자” 였습니다. Solved.ac는 사용자의 랭킹과 더불어 상태메시지에 관련된 내용도 제공해주었고, 유저가 백준 아이디를 입력하면 서버가 랜덤한 인증코드를 발급하고 유저가 코드를 상태메시지에 적용하고 확인 버튼을 누르면 인증을 하는 방식으로 인증 부분을 개발하였습니다. 
     
     이 이슈로 인해서 너무나 큰 개념을 나 자신이 너무 제한된 시점에서 바라보는 것이 아니었나.. 하는 생각이 많이 들었습니다.
+    
+    <table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/wonyongChoi05">
+                <img alt="최원용" src="https://avatars.githubusercontent.com/wonyongChoi05" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/leehj050211">
+                <img alt="이현준" src="https://avatars.githubusercontent.com/leehj050211" width="100" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">BACK</td>
+        <td align="center">FRONT</td>
+    </tr>
+    <tr>
+        <td align="center">최원용</td>
+        <td align="center">이현준</td>
+    </tr>
+</table>
+
